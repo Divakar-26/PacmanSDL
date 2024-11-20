@@ -10,3 +10,10 @@ This is the first game I created using SDL (Simple DirectMedia Layer). Developin
 
 ### GAME OVER
 ![GAMEOVER](https://github.com/Divakar-26/PacmanSDL/blob/main/gameOver.png)
+
+
+### Features
+1. Moves With WASD
+2. If collided with wall, the game is over
+3. gameSpeed increases every 10 scores
+4. Keeps record of highScore
